@@ -1,0 +1,15 @@
+C:\Users\riohi\Revature\RioH\ProjectFolder\Rio-Calculator\CalcEmulator\bin\Debug\net6.0\CalcEmulator.exe
+C:\Users\riohi\Revature\RioH\ProjectFolder\Rio-Calculator\CalcEmulator\bin\Debug\net6.0\CalcEmulator.deps.json
+C:\Users\riohi\Revature\RioH\ProjectFolder\Rio-Calculator\CalcEmulator\bin\Debug\net6.0\CalcEmulator.runtimeconfig.json
+C:\Users\riohi\Revature\RioH\ProjectFolder\Rio-Calculator\CalcEmulator\bin\Debug\net6.0\CalcEmulator.dll
+C:\Users\riohi\Revature\RioH\ProjectFolder\Rio-Calculator\CalcEmulator\bin\Debug\net6.0\ref\CalcEmulator.dll
+C:\Users\riohi\Revature\RioH\ProjectFolder\Rio-Calculator\CalcEmulator\bin\Debug\net6.0\CalcEmulator.pdb
+C:\Users\riohi\Revature\RioH\ProjectFolder\Rio-Calculator\CalcEmulator\obj\Debug\net6.0\CalcEmulator.csproj.AssemblyReference.cache
+C:\Users\riohi\Revature\RioH\ProjectFolder\Rio-Calculator\CalcEmulator\obj\Debug\net6.0\CalcEmulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riohi\Revature\RioH\ProjectFolder\Rio-Calculator\CalcEmulator\obj\Debug\net6.0\CalcEmulator.AssemblyInfoInputs.cache
+C:\Users\riohi\Revature\RioH\ProjectFolder\Rio-Calculator\CalcEmulator\obj\Debug\net6.0\CalcEmulator.AssemblyInfo.cs
+C:\Users\riohi\Revature\RioH\ProjectFolder\Rio-Calculator\CalcEmulator\obj\Debug\net6.0\CalcEmulator.csproj.CoreCompileInputs.cache
+C:\Users\riohi\Revature\RioH\ProjectFolder\Rio-Calculator\CalcEmulator\obj\Debug\net6.0\CalcEmulator.dll
+C:\Users\riohi\Revature\RioH\ProjectFolder\Rio-Calculator\CalcEmulator\obj\Debug\net6.0\ref\CalcEmulator.dll
+C:\Users\riohi\Revature\RioH\ProjectFolder\Rio-Calculator\CalcEmulator\obj\Debug\net6.0\CalcEmulator.pdb
+C:\Users\riohi\Revature\RioH\ProjectFolder\Rio-Calculator\CalcEmulator\obj\Debug\net6.0\CalcEmulator.genruntimeconfig.cache
